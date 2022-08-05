@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ângelo! 👋
 
-- 🔭 Hoje, eu estudo front-end(HTML5, CSS3 e javaScript) e back-and(Python)
+- 🔭 Hoje, estou na busca do meu primeiro emprego na área de T.I.
 - 🌱 Estou estudando Analíse e desenvolvimento de sistemas
 
 <div align="center">
