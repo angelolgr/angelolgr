@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ângelo! 👋
 
 - 🔭 Hoje, estou na busca do meu primeiro emprego na área de T.I.
-- 🌱 Estou estudando Analíse e desenvolvimento de sistemas
+- 🌱 Sou formado em Analíse e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/angelolgr">
